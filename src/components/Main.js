@@ -262,7 +262,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    <A2 className="linkeid" href="https://www.linkedin.com/in/raymond-phing-an-hsiao-b65249204/" target="blank"
+                    <A2 className="linkeid" href="https://www.linkedin.com/in/raymond-hsiao-b65249204/" target="_blank"
                         color="white">
                         Linkedin
                    </A2>
