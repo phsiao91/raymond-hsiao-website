@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import {motion} from 'framer-motion'
-import Me from '../assets/Images/me.jpeg'
+import Me from '../assets/Images/me-me.png'
 
 
 const Box = styled(motion.div)`
@@ -42,10 +42,10 @@ display: flex;
 .pic{
     position: absolute;
     bottom: 4px;
-    left: 40%;
+    left: 45%;
     transform: translate(-35%,0%);
     width: 80%;
-    height: 99%;
+    height: 98%;
 }
 `
 

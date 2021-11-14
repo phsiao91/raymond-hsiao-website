@@ -71,11 +71,13 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a fullstack software engineer. Dynamic and proficient in writing reusable and DRY code.
+        Full stack software engineer with understanding of architecture and design across all systems. Working proficiency in developmental toolsets and knowledge of industry-wide technology trends and best practices.
 <br /> <br/>
-        Exceptionally skilled in debugging, problem solving, creating databases, design and development.
+        Understands software skills such as business analysis, development, maintenance, and software improvement. Experienced with web services technology and SOA practice.
 <br/> <br/>
-        Experienced in team building, leadership and fluent in multiple languages.
+        Exceptional debugger experienced in building, deploying, managing and scaling databases. 
+        Great team player with proven work in large, collaborative teams to achieve organizational goals. Passionate about building an innovative culture.
+
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
