@@ -88,12 +88,6 @@ const ContactCard = () => {
             <Description>
                 <ul>
                     <li>
-                        <strong>
-                            Address:  61 Beltran st. Malden, MA. 02148
-                        </strong>
-                    </li>
-                    <br></br>
-                    <li>
                         <strong>    
                             Phone: 917-702-2863
                         </strong>
@@ -101,7 +95,7 @@ const ContactCard = () => {
                     <br></br>
                     <li>
                         <strong>
-                            Email:phinganhsiao@gmail.com
+                            Email: phinganhsiao@gmail.com
                         </strong>
                     </li>
                 </ul>
