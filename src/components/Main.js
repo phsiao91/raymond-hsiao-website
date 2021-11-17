@@ -6,6 +6,7 @@ import LogoComponent from '../subComponents/LogoComponent'
 import PowerButton from '../subComponents/PowerButton'
 import SocialIcons from '../subComponents/SocialIcons'
 import Intro from './Intro';
+import Resume from '../assets/Images/resume.pdf'
 // import Red from '../assets/images/red.jpeg'
 
 
@@ -240,7 +241,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    <A className="resume" href="https://docs.google.com/document/d/17SiyA6yqiCfF0CfHoHmH_5bMiE0eXWWD1DOqWMqbpZM/edit" target="_blank">
+                    <A className="resume" href={Resume} target="_blank">
                         Resume
                    </A>
                 </motion.h2>
