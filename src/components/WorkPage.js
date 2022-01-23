@@ -90,9 +90,6 @@ const WorkPage = () => {
             )
          }
      </Main>
-{/* <Rotate ref={yinyang}>
-    <YinYang width={80} height={80} fill={DarkTheme.text} />
-</Rotate> */}
 
 <BigTitlte text="WORK" top='10%' right="20%" />
         </Box>

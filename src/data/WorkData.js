@@ -7,7 +7,7 @@ export const Work = [
         description:"Make building out your resume as simple as possible. Updated version of previous repository",
         tags:["react","ruby","fullstack","SQL","rails"],
         
-        demo:"https://www.youtube.com/watch?v=09MjEp2ztM8&t=291s",
+        demo:"https://for-hire.herokuapp.com/",
         github:"https://github.com/phsiao91/fullstack-resume-builder"
     },
     {
